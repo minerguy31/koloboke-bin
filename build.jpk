@@ -1,0 +1,3 @@
+build-command=echo [Koloboke] Using precompiled uberjar
+dependencies=
+output-jar=koloboke-api-jdk8-1.0.0.jar
